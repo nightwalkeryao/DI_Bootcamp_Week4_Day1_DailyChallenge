@@ -1,4 +1,4 @@
-# DailyChallenge
+# DI Bootcamp - Week 4 - Day 1 - Daily Challenge : User Profile
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.5.
 
